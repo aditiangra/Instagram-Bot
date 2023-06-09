@@ -10,7 +10,9 @@ Instagram Bot that logs in to your account, scrapes the followers and following 
   <li>pandas</li>
   <li>chrome driver</li>
 </ol>
+
 # Running the script
+
 <ol>
   <li>Change the path to the path of chrome driver in your system.
 </li>
